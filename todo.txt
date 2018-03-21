@@ -1,0 +1,5 @@
+cache bug finished
+统计回测数据 finished
+绘制回测图 finished
+回测时加入交易参数
+股票只能整百买卖

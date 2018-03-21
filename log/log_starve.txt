@@ -1,0 +1,86 @@
+2018-03-30 18:34:32(real)	2018-01-01(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:32(real)	2018-01-01(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-02(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-03(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-04(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-05(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-06(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:32(real)	2018-01-06(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-07(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:32(real)	2018-01-07(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-08(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-09(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-10(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-11(sim) : 
+	Buying 000002
+2018-03-30 18:34:32(real)	2018-01-12(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-13(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-13(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-14(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-14(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-15(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-16(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-17(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-18(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-19(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-20(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-20(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-21(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-21(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-22(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-23(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-24(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-25(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-26(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-27(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-27(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-28(sim) : 
+	Warning!  stock : 000002 reason : no infomation today
+2018-03-30 18:34:33(real)	2018-01-28(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-29(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-30(sim) : 
+	Buying 000002
+2018-03-30 18:34:33(real)	2018-01-31(sim) : 
+	Selling 000002
+2018-03-30 18:34:35(real)	2018-02-27(sim) : 
+	Buying 000002
+2018-03-30 18:34:35(real)	2018-02-28(sim) : 
+	Buying 000002
+2018-03-30 18:34:35(real)	2018-03-01(sim) : 
+	Buying 000002
